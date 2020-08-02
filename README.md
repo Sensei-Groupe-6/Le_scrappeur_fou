@@ -7,7 +7,7 @@
 
    		└── depute.rb
 
-       		└── route_mairie.rb
+		└── route_mairie.rb
 
 
 ├──spec 	├── dark_trader_spec.rb
