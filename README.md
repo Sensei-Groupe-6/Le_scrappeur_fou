@@ -35,7 +35,7 @@ et les ressortir dans un array de hashes ayant l'acronyme de la crypto en clé, 
 
 <h2><u>2-La route de la Mairie</u></h2>
 
-<p> Ce programme consiste à récupèrer les liens de toutes les adresses mail des mairies du Val d'Oise sur : http://annuaire-des-mairies.com/
+<p> Ce programme consiste à récupérer les liens de toutes les adresses mail des mairies du Val d'Oise sur : http://annuaire-des-mairies.com/
 et les ranger dans un array de hashes ayant le nom de la mairie en clé et l'adresse mail de la dite mairie en valeur en utilisant Nokogiri ruby comme outils de marche et rspec pour le test.</p>
 
 
