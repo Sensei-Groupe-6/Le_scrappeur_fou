@@ -1,6 +1,6 @@
 
 
-<h1>Projet : Le scrappeur fou</h1>
+							<h1>Projet : Le scrappeur fou</h1>
 
 
 ├── lib
@@ -46,9 +46,9 @@ https://www.voxpublic.org/ et les classer dans un array de hashes. Sans oubier l
 
 
 
-												by : RAMAHATAFANDRY Fanomezana Nirina : https://github.com/FaSa1316 
- 													 RANDIMBIARILANTO  Mino : https://github.com/MinoRandy
- 													 RABEMIARINTSOA Anny Zo : https://github.com/Annyzo
- 													 Rabearimanana Tolotry ny Avo : https://github.com/Tolotra0977
- 													 RIANJHARINELINA Ny Toky Fitiavana : https://github.com/ny-toky-fitiavana02
-													 ANDRIANASOLO Tolotra judicael :  https://github.com/Tolotra-Judicael
+											by : RAMAHATAFANDRY Fanomezana Nirina : https://github.com/FaSa1316 
+ 											     RANDIMBIARILANTO  Mino : https://github.com/MinoRandy
+ 											     RABEMIARINTSOA Anny Zo : https://github.com/Annyzo
+ 										             RABEARIMANANA Tolotry ny Avo : https://github.com/Tolotra0977
+ 											     RIANJHARINELINA Ny Toky Fitiavana : https://github.com/ny-toky-fitiavana02
+											     ANDRIANASOLO Tolotra judicael :  https://github.com/Tolotra-Judicael
