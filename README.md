@@ -39,9 +39,12 @@ et les ranger dans un array de hashes ayant le nom de la mairie en clé et l'adr
 
 <p> De même que le projet précédent à pour but de chercher la liste des adresses mails de tous les députés de France sur : 
 https://www.voxpublic.org/ et les classer dans un array de hashes. Sans oubier les tests rspec pour vérifier la fonctionnalité du programme. </p>
-		by : 	RAMAHATAFANDRY Fanomezana Nirina : https://github.com/FaSa1316 
- 			RANDIMBIARILANTO  Mino : https://github.com/MinoRandy
- 			RABEMIARINTSOA Anny Zo : https://github.com/Annyzo
- 			RABEARIMANANA Tolotry ny Avo : https://github.com/Tolotra0977
- 			RIANJHARINELINA Ny Toky Fitiavana : https://github.com/ny-toky-fitiavana02
-			ANDRIANASOLO Tolotra judicael :  https://github.com/Tolotra-Judicael
+
+
+
+	by : 	RAMAHATAFANDRY Fanomezana Nirina : https://github.com/FaSa1316
+ 		RANDIMBIARILANTO  Mino : https://github.com/MinoRandy
+ 		RABEMIARINTSOA Anny Zo : https://github.com/Annyzo
+ 		RABEARIMANANA Tolotry ny Avo : https://github.com/Tolotra0977
+ 		RIANJHARINELINA Ny Toky Fitiavana : https://github.com/ny-toky-fitiavana02
+		ANDRIANASOLO Tolotra judicael :  https://github.com/Tolotra-Judicael
