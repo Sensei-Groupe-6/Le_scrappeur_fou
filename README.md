@@ -3,13 +3,15 @@
 <h1>Projet : Le scrappeur fou</h1>
 
 
-├── lib		├── dark_trader.rb
+├── lib		
+		├── dark_trader.rb
 
 		└── depute.rb
 
 		└── route_mairie.rb
 		
-├──spec		├── dark_trader_spec.rb
+├──spec		
+		├── dark_trader_spec.rb
 
 		└── depute_spec.rb
 
