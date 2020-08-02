@@ -5,18 +5,18 @@
 
 ├── lib
 
-│       ├── dark_trader.rb
+│       	├── dark_trader.rb
 
-│       └── depute.rb
+│      		└── depute.rb
 
-	└── route_mairie.rb
+│		└── route_mairie.rb
 
 
-├──spec ├── dark_trader_spec.rb
+├──spec 	├── dark_trader_spec.rb
 		
-│	└── depute_spec.rb
+│		└── depute_spec.rb
 
-│	└── route_mairie_spec.rb
+│		└── route_mairie_spec.rb
 
 
 ├── Gemfile
