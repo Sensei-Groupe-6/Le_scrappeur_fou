@@ -3,27 +3,18 @@
 <h1>Projet : Le scrappeur fou</h1>
 
 
-├── lib		├── dark_trader.rb
+├── lib	├── dark_trader.rb
+        	└── depute.rb
 
-   		└── depute.rb
+        	└── route_mairie.rb
+├──spec	├── dark_trader_spec.rb
+        	└── depute_spec.rb
 
-		└── route_mairie.rb
-
-
-├──spec 	├── dark_trader_spec.rb
-		
-		└── depute_spec.rb
-
-		└── route_mairie_spec.rb
-
-
+        	└── route_mairie_spec.rb
 ├── Gemfile
-
 ├── Gemfile.lock
-
 ├── .rspec
-
-└── README.md 
+└── README.md
 
 
 <h2><u> 1-Trader de l'obsur </u></h2>
@@ -44,9 +35,9 @@ https://www.voxpublic.org/ et les classer dans un array de hashes. Sans oubier l
 
 
 
-							by : RAMAHATAFANDRY Fanomezana Nirina : https://github.com/FaSa1316 
- 							     RANDIMBIARILANTO  Mino : https://github.com/MinoRandy
- 						             RABEMIARINTSOA Anny Zo : https://github.com/Annyzo
- 						             RABEARIMANANA Tolotry ny Avo : https://github.com/Tolotra0977
- 							     RIANJHARINELINA Ny Toky Fitiavana : https://github.com/ny-toky-fitiavana02
-							     ANDRIANASOLO Tolotra judicael :  https://github.com/Tolotra-Judicael
+	by : 	RAMAHATAFANDRY Fanomezana Nirina : https://github.com/FaSa1316 
+ 		RANDIMBIARILANTO  Mino : https://github.com/MinoRandy
+ 		RABEMIARINTSOA Anny Zo : https://github.com/Annyzo
+ 		RABEARIMANANA Tolotry ny Avo : https://github.com/Tolotra0977
+ 		RIANJHARINELINA Ny Toky Fitiavana : https://github.com/ny-toky-fitiavana02
+		ANDRIANASOLO Tolotra judicael :  https://github.com/Tolotra-Judicael
